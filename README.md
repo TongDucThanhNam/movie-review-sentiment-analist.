@@ -2,10 +2,11 @@
 
 ## Mô tả
 
-Phân loại các bài bình luận phim là tích cực hay tiêu cực.
+- Phân loại các bài bình luận phim là tích cực hay tiêu cực.
+- Kaggle link: https://www.kaggle.com/code/tongducthanhnam/movie-review
 
 ## Chi tiết
 
-Dataset: IMDB movie reviews
+- Dataset: IMDB movie reviews
 
-Model: Gaussian Naive Bayes
+- Model: Gaussian Naive Bayes
